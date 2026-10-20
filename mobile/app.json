@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Haskapp",
+    "slug": "haskapp-ios",
+    "scheme": "haskapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "bundleIdentifier": "jp.haskapp.ios",
+      "supportsTablet": true,
+      "buildNumber": "1020.2",
+      "infoPlist": {
+        "NSPhotoLibraryAddUsageDescription": "時間割の共有カードを写真に保存するために使用します。"
+      }
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-web-browser",
+      "./plugins/with-scene-lifecycle"
+    ],
+    "icon": "./assets/app-icon.png"
+  }
+}

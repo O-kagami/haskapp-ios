@@ -1,0 +1,12 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./web-contract/*"
+      ]
+    },
+    "ignoreDeprecations": "6.0"
+  }
+}

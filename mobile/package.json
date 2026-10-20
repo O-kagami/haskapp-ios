@@ -1,0 +1,49 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-native-community/datetimepicker": "9.1.0",
+    "@supabase/supabase-js": "2.110.7",
+    "eslint": "^9.39.5",
+    "eslint-config-expo": "~57.0.2",
+    "expo": "~57.0.26",
+    "expo-auth-session": "~57.0.13",
+    "expo-crypto": "~57.0.3",
+    "expo-dev-client": "~57.0.19",
+    "expo-secure-store": "~57.0.4",
+    "expo-status-bar": "~57.0.1",
+    "expo-web-browser": "~57.0.3",
+    "ical.js": "2.2.1",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-url-polyfill": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.cjs",
+    "lint": "eslint . --max-warnings=0",
+    "test:contracts": "node --test web-contract/tests/*.test.cjs",
+    "verify": "npm run typecheck && npm run lint && npm test && npm run test:contracts",
+    "test:ios": "bash scripts/test-ios-simulator.sh",
+    "test:models": "bash native-tests/run-model-checks.sh"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "private": true,
+  "overrides": {
+    "xcode": {
+      "uuid": "11.1.1"
+    }
+  }
+}

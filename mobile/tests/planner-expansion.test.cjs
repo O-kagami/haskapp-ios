@@ -1,0 +1,6 @@
+const test=require('node:test');const assert=require('node:assert/strict');const {loadTs}=require('./helpers/load-ts.cjs');
+const {assertNoNewConflicts,safeLearningURL}=loadTs('src/planner-rules.ts');
+const row=(id,term='2026年度 2学期（秋ターム）',period=1)=>({id,lecture_name:id,term,day_of_the_week:1,period});
+test('new manual, bulk and QR occupancy is checked before saving',()=>{assert.throws(()=>assertNoNewConflicts([row('b')],[row('a')]),/同じターム/);assert.throws(()=>assertNoNewConflicts([row('a'),row('b')],[]));assert.doesNotThrow(()=>assertNoNewConflicts([row('b','2026年度 2学期（冬ターム）')],[row('a')]));});
+test('old overlapping data stays editable, but moving into another occupied period fails',()=>{const old=[row('a'),row('b'),row('c',undefined,2)];assert.doesNotThrow(()=>assertNoNewConflicts([row('a')],old,['a']));assert.throws(()=>assertNoNewConflicts([row('a',undefined,2)],old,['a']));});
+test('learning URLs reject embedded credentials, script schemes and invalid links',()=>{assert.equal(safeLearningURL('javascript:alert(1)'),undefined);assert.equal(safeLearningURL('https://user:password@example.com'),undefined);assert.equal(safeLearningURL('https://example.com/course?id=1'),'https://example.com/course?id=1');});

@@ -1,0 +1,3854 @@
+{
+  "title": "2026年度第2学期 工学部専門科目時間割表",
+  "faculty": "工学部",
+  "department": "情報エレクトロニクス学科",
+  "academicYear": 2026,
+  "semester": 2,
+  "sourceLabel": "大学公式（本人提供PDF）",
+  "sourceFileName": "y2026_schedule_b2_c2.pdf",
+  "sourceSHA256": "8c22faadb6db10bcfee60202aa375dd3eae741098393dda08fe20b6ac255b955",
+  "sourcePages": 6,
+  "updatedPages": {
+    "3": "2026-09-09",
+    "5": "2026-09-09",
+    "6": "2026-09-09"
+  },
+  "notes": [
+    "大学発行として提供されたPDFから転記。公開元URLの独立確認は未実施。",
+    "1年次の時間割はこのPDFにありません。",
+    "入学年度・進級年度によって履修対象が異なります。Unire、工学部HP、コース掲示、学生便覧で確認してください。",
+    "※1は卒業要件外科目（教員免許取得希望者向け）。※2は2021年度以前入学者、※3は2022年度以降入学者。",
+    "卒業論文の履修登録は第2学期の履修登録期間中に行ってください。",
+    "通年科目はこの資料の第2学期の時限のみ収録。第1学期の時限は推測していません。"
+  ],
+  "dateOverrides": [
+    {
+      "date": "2026-10-15",
+      "weekday": 1,
+      "sourceText": "10月15日（木）は月曜日授業"
+    },
+    {
+      "date": "2027-01-13",
+      "weekday": 1,
+      "sourceText": "1月13日（水）は月曜日授業"
+    }
+  ],
+  "dateOverrideYearBasis": "2026年度第2学期と原文の曜日から西暦を補完。",
+  "courses": [
+    {
+      "id": "official-bc50416d1a4127463533",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "コンピュータシステム",
+      "instructor": "堀山 貴史",
+      "classroom": "A21",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 1
+        },
+        {
+          "weekday": 3,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-7526b0164417e9cfd13e",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "応用電気回路",
+      "instructor": "竹井 邦晴",
+      "classroom": "A22",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 1
+        },
+        {
+          "weekday": 2,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-8720a9b6625afc885ea3",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "信号処理",
+      "instructor": "⻄村 寿彦",
+      "classroom": "A13",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 2,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-fff80e7d800ae8799f96",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "線形システム論",
+      "instructor": "田中 孝之",
+      "classroom": "M151",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-23999cdf67846523beb8",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "電子回路",
+      "instructor": "安藤 洸太",
+      "classroom": "M151",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-8d59e1f0e0c1129f5267",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "応用電気回路",
+      "instructor": "北 裕幸",
+      "classroom": "A13",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        },
+        {
+          "weekday": 5,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-68abe628019fc9428521",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "分子生物学II",
+      "instructor": "渡邉 日出海",
+      "classroom": "A21",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        },
+        {
+          "weekday": 2,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-e78c1d5ddc131d82efda",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "電気電子工学実験基礎",
+      "instructor": "山ノ内 路彦",
+      "classroom": "M151",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        },
+        {
+          "weekday": 1,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-a5d17ce0ba7b0cfbeb92",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "計算機プログラミングII",
+      "instructor": "坂本 大介",
+      "classroom": "A31・計算機室",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 3,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-f7abb10f1c10c294b78d",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "情報数学",
+      "instructor": "小林 孝一",
+      "classroom": "M151",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-dba4797d32cb136c367c",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "ディジタル回路",
+      "instructor": "浅井 哲也",
+      "classroom": "M151",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-d37015edb4ff4bb9e1c5",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "電気制御システム演習I",
+      "instructor": "北 裕幸",
+      "classroom": "M151",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-981b5413fe203181f186",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "メディアネットワーク演習I",
+      "instructor": "コース⻑",
+      "classroom": "A31",
+      "openingTerm": "通年",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 4
+        },
+        {
+          "weekday": 2,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-7e251c4d0ec8d2dcbace",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "生体医工学基礎",
+      "instructor": "三上 秀治",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-e8b67c60ae6c79763e10",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "電磁気学",
+      "instructor": "齊藤 晋聖",
+      "classroom": "A21",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-3d83f990b5091602fcb1",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "情報社会及び情報倫理",
+      "instructor": "田中 章",
+      "classroom": "A12",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": "※1"
+    },
+    {
+      "id": "official-8590d619f052bc73fe65",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "ネットワークとクラウド",
+      "instructor": "飯田 勝吉",
+      "classroom": "A13",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-10b0d1f3897efb6a761f",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "情報と職業",
+      "instructor": "田中 章",
+      "classroom": "A12",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": "※1"
+    },
+    {
+      "id": "official-d922a3dedc9c9a0dd2bc",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "情報理工学演習I",
+      "instructor": "堀山 貴史",
+      "classroom": "A21",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-33ce9ea103609f1fa69b",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "量子力学",
+      "instructor": "植村 哲也",
+      "classroom": "M151",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-634c6a03d6c2a08dff51",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "応用数学III",
+      "instructor": "河口 万由香",
+      "classroom": "A13",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-97b0ac07f891d406661f",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "A",
+      "title": "情報エレクトロニクス演習",
+      "instructor": "齊藤 晋聖",
+      "classroom": "A21",
+      "openingTerm": "通年",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-d2e5562613ff9d7f811e",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "線形システム論",
+      "instructor": "近野 敦",
+      "classroom": "A21",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-ba438dfea66f23dcc2c8",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "電子回路",
+      "instructor": "山本 学",
+      "classroom": "A21",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b5e43dcc472c83efefc0",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "計算機プログラミングII",
+      "instructor": "深谷 猛",
+      "classroom": "M151・計算機室",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 1
+        },
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-5fb7d760e03b08004fef",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "信号処理",
+      "instructor": "小川 貴弘",
+      "classroom": "A13",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-acc716fdbbf05e26fec8",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "情報数学",
+      "instructor": "河口 万由香",
+      "classroom": "A13",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-7d96a51595c1f2913d86",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "電磁気学",
+      "instructor": "中野谷 一",
+      "classroom": "M151",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-1bb6ab5713c3136db863",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "ディジタル回路",
+      "instructor": "赤澤 正道",
+      "classroom": "A21",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-d47f2d08c36dfdf43676",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "応用数学III",
+      "instructor": "吉岡 真治",
+      "classroom": "A13",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 2
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b37228d40c4bf22f716d",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "B",
+      "title": "情報エレクトロニクス演習",
+      "instructor": "齊藤 晋聖",
+      "classroom": "A33",
+      "openingTerm": "通年",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-8c4e9c30ab157f141915",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "信号処理",
+      "instructor": "池 勇勳",
+      "classroom": "A21",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-852e37b5babbccbe0ad1",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "情報数学",
+      "instructor": "日下 聖",
+      "classroom": "A31",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-f66377fc712f36ed5a8a",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "電子回路",
+      "instructor": "松元 慎吾",
+      "classroom": "A13",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-abfb78ef310f811d82ce",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "電磁気学",
+      "instructor": "平田 拓",
+      "classroom": "A21",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-85d13eae8bfcecbf5ef4",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "線形システム論",
+      "instructor": "山下 裕",
+      "classroom": "A21",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-5c8e8abd54703014bf44",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "ディジタル回路",
+      "instructor": "植村 哲也",
+      "classroom": "A13",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-e154dd6dc8126fdd231d",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "計算機プログラミングII",
+      "instructor": "山本 雅人",
+      "classroom": "A31・計算機室",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b15535760886597a885a",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "応用数学III",
+      "instructor": "河口 万由香",
+      "classroom": "A13",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-3cf91b382a5555944274",
+      "page": 1,
+      "studentYear": 2,
+      "courseNames": [
+        "情報理工学コース",
+        "電気電子工学コース",
+        "生体情報コース",
+        "メディアネットワークコース",
+        "電気制御システムコース"
+      ],
+      "classGroup": "C",
+      "title": "情報エレクトロニクス演習",
+      "instructor": "齊藤 晋聖",
+      "classroom": "A13",
+      "openingTerm": "通年",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-fbf59079b3f647f9d50c",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "情報の幾何学 ※3(情報幾何学 ※2)",
+      "instructor": "松原 崇",
+      "classroom": "A32",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-5c10840485c36bfa1dd2",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "人工生命と進化型計算",
+      "instructor": "山本 雅人",
+      "classroom": "A22",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 3,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-48145bda1d267078f326",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "データマイニングと機械学習",
+      "instructor": "中村 篤祥",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-98c6776d63984ee21bec",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "情報理工学実験II",
+      "instructor": "坂地 泰紀",
+      "classroom": "計算機室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        },
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 2,
+          "period": 4
+        },
+        {
+          "weekday": 2,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 1
+        },
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b322a15b5d15d06ad1a8",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "メディアコンテンツ工学",
+      "instructor": "棟朝 雅晴",
+      "classroom": "A33",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b39f117e9764560d918d",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "ロボットとインタラクティブシステム",
+      "instructor": "坂本 大介",
+      "classroom": "A22",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-3e756f49463c446f14f6",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "データベースとWebインテリジェンス",
+      "instructor": "吉岡 真治",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-14dcffc5059591cd77f0",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "プログラム理論と言語",
+      "instructor": "有村 博紀",
+      "classroom": "A33",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-79e038da07cef1728d1c",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "情報社会及び情報倫理 ※1",
+      "instructor": "田中 章",
+      "classroom": "A12",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-270b37fb85e0c4bb427b",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "情報と職業 ※1",
+      "instructor": "田中 章",
+      "classroom": "A12",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-f3bd3aac57d511e36627",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "計算理論",
+      "instructor": "脊戶 和寿",
+      "classroom": "A33",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-df677a564b0c04b6b941",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "確率過程とデータ解析",
+      "instructor": "南 弘征",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-6e4b538f6c5e0a2dc569",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "ソフトウェア工学",
+      "instructor": "野田 五十樹",
+      "classroom": "A33",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 2
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-bd617222743e95881f70",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "科学計測",
+      "instructor": "橋本 守",
+      "classroom": "A13",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-1f542df0dbd1699dd9db",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "エネルギー工学概論",
+      "instructor": "澤 和弘",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-4a37caabff28a78317ca",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "集積システム工学",
+      "instructor": "丸⻲ 孝生",
+      "classroom": "A31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-a0de428d46f68ab7bc81",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "システムマネジメント",
+      "instructor": "北 裕幸",
+      "classroom": "A24",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-6f9a1840556b081b58eb",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "環境工学概論",
+      "instructor": "松下 拓",
+      "classroom": "B31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 1
+        },
+        {
+          "weekday": 4,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-77d5683789afa6a5edd5",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "ディジタル制御",
+      "instructor": "山下 裕",
+      "classroom": "A11",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-73fa12096e79681bc58c",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "計測制御工学",
+      "instructor": "池辺 将之",
+      "classroom": "A24",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-2f3047aae9571ff97698",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "生体工学概論",
+      "instructor": "三上 秀治",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-646752a226dec3fab7bd",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "資源工学概論",
+      "instructor": "廣吉 直樹",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-9cd13795ecc1c8a30460",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "現代化学概論",
+      "instructor": "磯野 拓也",
+      "classroom": "MC117",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 4
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-88b3631966b5bb535276",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "物性工学",
+      "instructor": "本久 順一",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 2,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-3528785694e9ff31d870",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "電気電子材料工学",
+      "instructor": "冨岡 克広",
+      "classroom": "A33",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 2,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-dc0c6e07f5af7ac3ef7c",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "集積システム工学",
+      "instructor": "丸⻲ 孝生",
+      "classroom": "A31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-a508df6dea85b46101e8",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "数値解析とシミュレーション基礎",
+      "instructor": "菅原 広剛",
+      "classroom": "A22",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-c9e68cc74276c2801e49",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "応用光工学",
+      "instructor": "岡本 淳",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-1646a3175912d50dc694",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "応用量子力学",
+      "instructor": "末岡 和久",
+      "classroom": "A22",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-38b5ab0855eb686ef074",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "計測制御工学",
+      "instructor": "池辺 将之",
+      "classroom": "A24",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-2ae7d57e820227b6c199",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "電気電子工学実験IV",
+      "instructor": "田口 敦清",
+      "classroom": "各実験室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b5a708a7a1a491f38328",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "電気電子工学実験V",
+      "instructor": "田口 敦清",
+      "classroom": "各実験室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-aa9e38c81256c9ba7c36",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "電気電子工学演習IV",
+      "instructor": "竹井 邦晴",
+      "classroom": "A23",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 5,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-72a148595653663acb9b",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "コンピュータシステム",
+      "instructor": "堀山 貴史",
+      "classroom": "A21",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 1
+        },
+        {
+          "weekday": 3,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-73d2069f733ee22405f7",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "電気機器学",
+      "instructor": "萩原 誠",
+      "classroom": "A11",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-5033ae1324e5185ca0c6",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "生体物理工学",
+      "instructor": "岡嶋 孝治",
+      "classroom": "A24",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 2,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-02aafb8b0c3b35e7d87b",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "エネルギー工学概論",
+      "instructor": "澤 和弘",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-052cd4c4eea1d43444e2",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "環境工学概論",
+      "instructor": "松下 拓",
+      "classroom": "B31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 1
+        },
+        {
+          "weekday": 4,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-74ef30ea869d68f07b89",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "モバイル通信メディア",
+      "instructor": "筒井 弘",
+      "classroom": "A23",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-01e922184b0b804ff7b5",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "生体工学概論",
+      "instructor": "三上 秀治",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-279cc8386e8b24be0504",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "資源工学概論",
+      "instructor": "廣吉 直樹",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-1ee568a9c33b3b7eb1d9",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "現代化学概論",
+      "instructor": "磯野 拓也",
+      "classroom": "MC117",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 4
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-07417535b6976b08159b",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "生体情報工学演習II",
+      "instructor": "コース⻑",
+      "classroom": "M151・計算機室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-37fcf86245d56e34442e",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "生体情報工学演習II",
+      "instructor": "コース⻑",
+      "classroom": "計算機室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b1b6010ba301e2003cfa",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "応用物性工学",
+      "instructor": "雲林院 宏",
+      "classroom": "A12",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 2,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b3c72481b7aacd1ea061",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "科学計測",
+      "instructor": "橋本 守",
+      "classroom": "A13",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-133a3a3939c91a7b8ee4",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "神経工学",
+      "instructor": "舘野 高",
+      "classroom": "A24",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        },
+        {
+          "weekday": 2,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-ed09eb47c25e173c5301",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "生体物理工学",
+      "instructor": "岡嶋 孝治",
+      "classroom": "A24",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 2,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-111162e84be3586af0c2",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "応用光学II",
+      "instructor": "⻄野 吉則",
+      "classroom": "A24",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 2
+        },
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-ce4015bad846986edfcd",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "生体情報工学実験II",
+      "instructor": "コース⻑",
+      "classroom": "実験室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 4
+        },
+        {
+          "weekday": 4,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 4
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-5ac796bb30da14c19afe",
+      "page": 4,
+      "studentYear": 3,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "科学技術英語演習",
+      "instructor": "コース⻑",
+      "classroom": "各研究室・M151",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 5,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-83d96994db89649943b3",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "電気電子材料工学",
+      "instructor": "冨岡 克広",
+      "classroom": "A33",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        },
+        {
+          "weekday": 2,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-53cbfd196fd6faae57d0",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "ディジタルネットワーク",
+      "instructor": "須藤 克弥",
+      "classroom": "A23",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-06020aee2e94da3c0db8",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "エネルギー工学概論",
+      "instructor": "澤 和弘",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-8abe1bbc0e161148052a",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "環境工学概論",
+      "instructor": "松下 拓",
+      "classroom": "B31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 1
+        },
+        {
+          "weekday": 4,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-2a66a8e9042a9ea856ad",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "データベースとWebインテリジェンス",
+      "instructor": "吉岡 真治",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-7027b233180398d819cb",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "確率過程とデータ解析",
+      "instructor": "南 弘征",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-6ad008ef40c8c493ff39",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "ロボティクス",
+      "instructor": "田中 孝之",
+      "classroom": "A11",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-5f37a863c153a681a459",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "資源工学概論",
+      "instructor": "廣吉 直樹",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-531e27b10d78dc439bfa",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "現代化学概論",
+      "instructor": "磯野 拓也",
+      "classroom": "MC117",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 4
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-079a44168bb00c07ed42",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "フォトニックネットワーク基礎",
+      "instructor": "佐藤 孝憲",
+      "classroom": "A23",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-c75864fb8e4add63e9ca",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "画像処理応用",
+      "instructor": "小川 貴弘",
+      "classroom": "A23",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 2,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-65059cbd865b2ed8f949",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "ディジタルネットワーク",
+      "instructor": "須藤 克弥",
+      "classroom": "A23",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-45616dbcb46e56732088",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "メディアプログラミング",
+      "instructor": "土橋 宜典",
+      "classroom": "A23",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-d56661598d2a94530767",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "ワイアレスネットワーク基礎",
+      "instructor": "山本 学",
+      "classroom": "A23",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-662f7053e501ddeed784",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "コンピュータグラフィックス",
+      "instructor": "澤山 正貴",
+      "classroom": "A23",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-937d3d64656200a95d15",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "モバイル通信メディア",
+      "instructor": "筒井 弘",
+      "classroom": "A23",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-09329f52c9fa6c5c8790",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "音声メディア応用論",
+      "instructor": "伊藤 敏彦",
+      "classroom": "A23",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-0cc5471cfa5f5cc4c529",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "メディアネットワーク実験IIA",
+      "instructor": "コース⻑",
+      "classroom": "実験室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 4
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-8b3feb4e03acb1b81245",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "メディアネットワーク実験IIB",
+      "instructor": "コース⻑",
+      "classroom": "実験室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 4
+        },
+        {
+          "weekday": 4,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-114e3329eefea98c4945",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "データマイニングと機械学習",
+      "instructor": "中村 篤祥",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-b7c58368249a8660c1a4",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "計算知能工学",
+      "instructor": "比留間 真悟",
+      "classroom": "A11",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-9684681a2b3fe2e50a7a",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "集積システム工学",
+      "instructor": "丸⻲ 孝生",
+      "classroom": "A31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-0e7fb9891462b0286b9e",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "エネルギー工学概論",
+      "instructor": "澤 和弘",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-3b2b0683e77cc1a25f09",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "環境工学概論",
+      "instructor": "松下 拓",
+      "classroom": "B31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 1
+        },
+        {
+          "weekday": 4,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-81904c66200c07e3d19b",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "メディアコンテンツ工学",
+      "instructor": "棟朝 雅晴",
+      "classroom": "A33",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 4,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-5051e084d12604b10339",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "ロボットとインタラクティブシステム",
+      "instructor": "坂本 大介",
+      "classroom": "A22",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-3427aeab81f8e954a651",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "生体工学概論",
+      "instructor": "三上 秀治",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-f934511c87473bcf0576",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "確率過程とデータ解析",
+      "instructor": "南 弘征",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-c76279313e06c3ea89f2",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "資源工学概論",
+      "instructor": "廣吉 直樹",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-25a3addd1b53da29a407",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "現代化学概論",
+      "instructor": "磯野 拓也",
+      "classroom": "MC117",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 4
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-a2e3b4dd19e8aecc1d91",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "電波法",
+      "instructor": "コース⻑",
+      "classroom": "A32",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 5,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-2e66a45453f3b01bc8ea",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "電気制御システム演習II",
+      "instructor": "萩原 誠",
+      "classroom": "A11・計算機室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 1
+        },
+        {
+          "weekday": 1,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-e5ce4389b8c9f3046054",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "電気機器学",
+      "instructor": "萩原 誠",
+      "classroom": "A11",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-9d3fe0dfb4c2aed81d3a",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "パワーエレクトロニクス",
+      "instructor": "萩原 誠",
+      "classroom": "A11",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-dc56f1e88b36a2bec07d",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "計算知能工学",
+      "instructor": "比留間 真悟",
+      "classroom": "A11",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 4
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-401ef0dcfc3248a600bc",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "システムマネジメント",
+      "instructor": "北 裕幸",
+      "classroom": "A24",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-58e3eaae36ffa6c05a78",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "画像計測工学",
+      "instructor": "妹尾 拓",
+      "classroom": "A11",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-a052536e90ed1c73988f",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "ディジタル制御",
+      "instructor": "山下 裕",
+      "classroom": "A11",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 2
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-02f4a20413fac92ca9e2",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "電気制御システム実験II",
+      "instructor": "田中 文基",
+      "classroom": "A11・実験室・計算機室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 4
+        },
+        {
+          "weekday": 4,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 4
+        },
+        {
+          "weekday": 5,
+          "period": 3
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-050ab9dad13b2bb2cec0",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "ロボティクス",
+      "instructor": "田中 孝之",
+      "classroom": "A11",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-88aed903582c663c08bf",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "情報モデリング",
+      "instructor": "田中 文基",
+      "classroom": "A11",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 5,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-10c52ff144dcb4432d96",
+      "page": 6,
+      "studentYear": 3,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "科学技術英語演習",
+      "instructor": "コース⻑",
+      "classroom": "各研究室",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 5,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-eee1c62fb9efd37dbd3d",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "科学計測",
+      "instructor": "橋本 守",
+      "classroom": "A13",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-a2265d5618e64efbba3f",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "集積システム工学",
+      "instructor": "丸⻲ 孝生",
+      "classroom": "A31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-be98e98276178f614767",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "エネルギー工学概論",
+      "instructor": "澤 和弘",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 1,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-f74f438eb8cba4a9a6f2",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "環境工学概論",
+      "instructor": "松下 拓",
+      "classroom": "B31",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 1
+        },
+        {
+          "weekday": 4,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-61a2974e1955191ab971",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "ロボットとインタラクティブシステム",
+      "instructor": "坂本 大介",
+      "classroom": "A22",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 3,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-a926e818dc73a151cf46",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "モバイル通信メディア",
+      "instructor": "筒井 弘",
+      "classroom": "A23",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 2
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-4ad96cf8e6ad940fe3fb",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "生体工学概論",
+      "instructor": "三上 秀治",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 2,
+          "period": 5
+        },
+        {
+          "weekday": 3,
+          "period": 5
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-df981685348f34594de8",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "ネットワークとクラウド",
+      "instructor": "飯田 勝吉",
+      "classroom": "A13",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 3
+        },
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-c974812f6b8bbd23b12d",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "確率過程とデータ解析",
+      "instructor": "南 弘征",
+      "classroom": "A33",
+      "openingTerm": "秋",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-8cc305976aa487caeb3b",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "量子力学",
+      "instructor": "植村 哲也",
+      "classroom": "M151",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 3,
+          "period": 5
+        },
+        {
+          "weekday": 5,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-35e3b6a96e72246ca488",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "資源工学概論",
+      "instructor": "廣吉 直樹",
+      "classroom": "日本製鉄オープンホール",
+      "openingTerm": "2学期",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 1
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-878eb63e0a7c66ca3a47",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "現代化学概論",
+      "instructor": "磯野 拓也",
+      "classroom": "MC117",
+      "openingTerm": "冬",
+      "slots": [
+        {
+          "weekday": 4,
+          "period": 4
+        },
+        {
+          "weekday": 5,
+          "period": 4
+        }
+      ],
+      "intensive": false,
+      "notes": ""
+    },
+    {
+      "id": "official-18d586a7b1a1a3fa70d6",
+      "page": 2,
+      "studentYear": 3,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "科学技術英語演習I",
+      "instructor": "コース長",
+      "classroom": "各研究室",
+      "openingTerm": "2学期",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    },
+    {
+      "id": "official-1afac1de7c7b270f8309",
+      "page": 2,
+      "studentYear": 4,
+      "courseNames": [
+        "情報理工学コース"
+      ],
+      "classGroup": "",
+      "title": "卒業論文",
+      "instructor": "コース長",
+      "classroom": "-",
+      "openingTerm": "2学期集中",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    },
+    {
+      "id": "official-c720bdfbdfed491d3666",
+      "page": 3,
+      "studentYear": 3,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "科学技術英語演習",
+      "instructor": "コース長",
+      "classroom": "各研究室",
+      "openingTerm": "2学期",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    },
+    {
+      "id": "official-4d75e6c578a26f861a24",
+      "page": 3,
+      "studentYear": 4,
+      "courseNames": [
+        "電気電子工学コース"
+      ],
+      "classGroup": "",
+      "title": "卒業論文",
+      "instructor": "コース長",
+      "classroom": "-",
+      "openingTerm": "2学期集中",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    },
+    {
+      "id": "official-77220f38ddab836aa05a",
+      "page": 4,
+      "studentYear": 4,
+      "courseNames": [
+        "生体情報コース"
+      ],
+      "classGroup": "",
+      "title": "卒業論文",
+      "instructor": "コース長",
+      "classroom": "-",
+      "openingTerm": "2学期集中",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    },
+    {
+      "id": "official-3ea3a12843dc42aa97c4",
+      "page": 5,
+      "studentYear": 3,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "科学技術英語演習I",
+      "instructor": "コース長",
+      "classroom": "各研究室",
+      "openingTerm": "2学期",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    },
+    {
+      "id": "official-38ace87db3cf7e079af0",
+      "page": 5,
+      "studentYear": 4,
+      "courseNames": [
+        "メディアネットワークコース"
+      ],
+      "classGroup": "",
+      "title": "卒業論文",
+      "instructor": "コース長",
+      "classroom": "-",
+      "openingTerm": "2学期集中",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    },
+    {
+      "id": "official-3f565099d736882de0bd",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "電気法規及び施設管理",
+      "instructor": "北 裕幸",
+      "classroom": "-",
+      "openingTerm": "2学期",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    },
+    {
+      "id": "official-918e578b9932ded08d36",
+      "page": 6,
+      "studentYear": 4,
+      "courseNames": [
+        "電気制御システムコース"
+      ],
+      "classGroup": "",
+      "title": "卒業論文",
+      "instructor": "コース長",
+      "classroom": "-",
+      "openingTerm": "2学期集中",
+      "slots": [],
+      "intensive": true,
+      "notes": "集中講義。日程はコースの案内を確認してください。"
+    }
+  ]
+}
